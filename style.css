@@ -200,11 +200,11 @@ p,span{
     text-align: center;
 }
 #home .hero-img{
-    width: 30rem;
+    width: 45rem;
     height: auto;
-    position: absolute;
+    position:absolute;
     z-index: 1;
-    right: 12rem;
+    right: 0rem;
     bottom: -5px;
     pointer-events: none;
     opacity: 0.6;
